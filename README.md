@@ -41,9 +41,9 @@ discuss how to deal with those types to use this program.
 	represented by "Temp. Coeff." as the last band from
 	the left.
 <br><br>
-<font color=darkgrey><b>*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*</font>
+
 <br>
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-* 
+=================================================================================
 If you need any help or you want to contact me:<br>
 <b>Twitter:</b> twitter.com/abdelrahmanmoez<br>
 <b>Facebook:</b> facebook.com/The.Hydra.Python.Programmer<br>
