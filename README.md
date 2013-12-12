@@ -1,0 +1,4 @@
+ResistorCalc
+============
+
+Resistor Calculator
