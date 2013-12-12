@@ -41,8 +41,6 @@ discuss how to deal with those types to use this program.
 	represented by "Temp. Coeff." as the last band from
 	the left.
 <br><br>
-
-<br>
 =================================================================================
 If you need any help or you want to contact me:<br>
 <b>Twitter:</b> twitter.com/abdelrahmanmoez<br>
