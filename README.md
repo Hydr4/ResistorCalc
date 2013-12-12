@@ -3,7 +3,7 @@ ResistorCalc
 
 Resistors have three types with respect to bands number which exist upon it, so a resistor whether to be four- band, five-band or six-band resistor, and I am going to discuss how to deal with those types to use this program. 
 
-1# 4-band resistor:
+1# 4-band resistor:<br>
 In this case, and after choosing "4-Band Resistor" radio button in the program, we look at color bands starting from the left, so the first two colors would be choosen from "1st Band", "2nd Band" lists, and they represent the first two digits of resistor's value. And the third color band on the resistor would be the multiplier so you choose its color from "Multiplier" list. The fourth color band would be the tolerance of the resistor, so you need to choose it from "Tolerance" list. Afeter doing that - properly and I assume - Click on "Calculate!" 
 
 2# 5-band resistor:
